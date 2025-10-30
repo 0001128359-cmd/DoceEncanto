@@ -1,0 +1,1 @@
+Atividade para restar responsividade
